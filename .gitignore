@@ -1,0 +1,12 @@
+# Archivos generados por Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Directorio de salida para las celdas exportadas
+/export/
+
+# Directorio donde se almacenan los datos generados por el proyecto
+/data/
+
+# Directorio donde se almacenan las dependencias y entornos virtuales
+.venv/
+env/
