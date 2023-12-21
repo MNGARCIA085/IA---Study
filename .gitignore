@@ -10,3 +10,5 @@
 # Directorio donde se almacenan las dependencias y entornos virtuales
 .venv/
 env/
+
+__pycache__/
